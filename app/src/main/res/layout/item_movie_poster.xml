@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/iv_item_poster"
+        android:layout_width="@dimen/detail_view_poster_width"
+        android:layout_height="@dimen/detail_view_poster_height"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/detail_view_margin_info_section"
+        android:scaleType="fitXY"
+        android:contentDescription="@string/detail_poster_content_desc" />
+
+</FrameLayout>
+
+

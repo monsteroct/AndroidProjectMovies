@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- margins -->
+    <dimen name="boarder_margin_sides">16dp</dimen>
+    <dimen name="boarder_margin_top_down">16dp</dimen>
+    <dimen name="detail_view_margin_section_top">16dp</dimen>
+    <dimen name="detail_view_margin_info_section">12dp</dimen>
+    <dimen name="detail_view_margin_info_content">6dp</dimen>
+
+    <!-- width/height -->
+    <dimen name="detail_view_poster_width">150dp</dimen>
+    <dimen name="detail_view_poster_height">225dp</dimen>
+    <dimen name="detail_view_max_width_title">200dp</dimen>
+    <dimen name="detail_view_max_height_title">50dp</dimen>
+    <dimen name="trailer_image_width">120dp</dimen>
+    <dimen name="trailer_image_height">120dp</dimen>
+    <dimen name="detail_view_error_msg_height">30dp</dimen>
+
+    <!-- padding -->
+    <dimen name="boarder_padding_sides">16dp</dimen>
+    <dimen name="error_msg_padding">20dp</dimen>
+</resources>

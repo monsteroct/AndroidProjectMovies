@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Project Movies</string>
+    <!-- main activity title -->
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Most Popular</string>
+    <string name="favorites">Favorites</string>
+
+    <!-- error messages -->
+    <string name="error_msg_no_network">Oops! No Internet Available</string>
+    <string name="error_msg_no_trailer">No trailers available</string>
+    <string name="error_msg_no_reviews">No reviews available</string>
+    <string name="error_msg_no_favorites">Add movies to your favorites and enjoy offline browsing</string>
+
+    <!-- menu items -->
+    <string name="menu_item_sort_by_pop">Most Popular Movies</string>
+    <string name="menu_item_sort_by_rate">Top Rated Movies</string>
+    <string name="menu_item_favorite">My Favorite</string>
+    <string name="menu_item_add_favorite">Add</string>
+    <string name="menu_item_remove_favorite">Remove</string>
+    <string name="menu_item_share">share</string>
+
+    <!-- label text detail views -->
+    <string name="label_description">Movie Description</string>
+    <string name="label_vote_avg">Vote Avg.</string>
+    <string name="label_release_date">Release Date</string>
+    <string name="label_vote_from">Vote from</string>
+    <string name="label_trailer">Trailers</string>
+    <string name="label_review">Reviews</string>
+    <string name="detail_poster_content_desc">Movie Poster</string>
+
+    <!-- formatting text -->
+    <string name="format_detail_view_vote_from">%1$d users</string>
+    <string name="share_trailer_message">My favorite movie %1$s trailer. You must take a look\n %2$s</string>
+
+    <!-- sample texts for detail views -->
+    <string name="sample_title">Suicide Squad</string>
+    <string name="sample_vote_avg">5.91</string>
+    <string name="sample_vote_from">5967</string>
+    <string name="sample_release_date">2016-08-03</string>
+    <string name="sample_overview">From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.</string>
+
+    <!-- sample texts reviews -->
+    <string name="sample_author">Frank Ochieng</string>
+    <string name="sample_review_content">Summertime 2016 has not been very kind to DC Comics-based personalities looking to shine consistently like their big screen Marvel Comics counterparts. Following the super-sized dud that was _Batman v. Superman: Dawn of Justice_ released a few months ago must really put some major pressure on Warner Bros. to gamble on ensuring that the presence of **Suicide Squad** does not meet the same kind of indifferent reception. Well, it turns out that although the anticipation was high for writer-director David Ayers supervillain saga involving high-powered imprisoned rogues recruited as U.S. governmental operatives out to stop other skillful baddies (as it was for Zack Ryders aforementioned \</string>
+
+
+</resources>
