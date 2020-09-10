@@ -22,4 +22,5 @@ To run this project, you have to [get personal API key](https://www.themoviedb.o
 <img src="/screenshots/movie_list.png" width="150" height="308"/> <img src="/screenshots/movie_detail.png" width="150" height="308"/>
 
 
-## Licence
+## License
+The work is under MIT License. Please check LICENSE for more information.
